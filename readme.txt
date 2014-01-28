@@ -1,5 +1,9 @@
+image resize;
+restore databases;
+limpar diretorios
+
+
 clock;
 alarm;
-image resize;
 search file;
 github;linkedin;gmail;

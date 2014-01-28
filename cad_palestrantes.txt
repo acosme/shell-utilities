@@ -1,0 +1,1 @@
+centos||adriano|||/home/centos|teste|/home/centos|/home/centos|25/01/2014||TRUE|FALSE|FALSE|FALSE||/home/centos/projetos/shell_utilities|
